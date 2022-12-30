@@ -1,0 +1,12 @@
+c:\users\olya2\documents\visual studio 2012\Projects\Lab3_DB\Lab3_DB\bin\Debug\Lab3_DB.exe.config
+c:\users\olya2\documents\visual studio 2012\Projects\Lab3_DB\Lab3_DB\bin\Debug\Database1.mdf
+c:\users\olya2\documents\visual studio 2012\Projects\Lab3_DB\Lab3_DB\bin\Debug\Database1_log.ldf
+c:\users\olya2\documents\visual studio 2012\Projects\Lab3_DB\Lab3_DB\bin\Debug\Lab3_DB.exe
+c:\users\olya2\documents\visual studio 2012\Projects\Lab3_DB\Lab3_DB\bin\Debug\Lab3_DB.pdb
+c:\users\olya2\documents\visual studio 2012\Projects\Lab3_DB\Lab3_DB\obj\Debug\Lab3_DB.csprojResolveAssemblyReference.cache
+c:\users\olya2\documents\visual studio 2012\Projects\Lab3_DB\Lab3_DB\obj\Debug\Lab3_DB.Properties.Resources.resources
+c:\users\olya2\documents\visual studio 2012\Projects\Lab3_DB\Lab3_DB\obj\Debug\Lab3_DB.csproj.GenerateResource.Cache
+c:\users\olya2\documents\visual studio 2012\Projects\Lab3_DB\Lab3_DB\obj\Debug\Lab3_DB.exe
+c:\users\olya2\documents\visual studio 2012\Projects\Lab3_DB\Lab3_DB\obj\Debug\Lab3_DB.pdb
+c:\users\olya2\documents\visual studio 2012\Projects\Lab3_DB\Lab3_DB\obj\Debug\Lab3_DB.Form1.resources
+c:\users\olya2\documents\visual studio 2012\Projects\Lab3_DB\Lab3_DB\obj\Debug\Lab3_DB.Form2.resources

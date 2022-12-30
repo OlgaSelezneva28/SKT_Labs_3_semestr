@@ -1,0 +1,6 @@
+c:\users\olya2\documents\visual studio 2012\Projects\DiningPhilosophers\DiningPhilosophers\bin\Debug\DiningPhilosophers.exe.config
+c:\users\olya2\documents\visual studio 2012\Projects\DiningPhilosophers\DiningPhilosophers\obj\Debug\DiningPhilosophers.csprojResolveAssemblyReference.cache
+c:\users\olya2\documents\visual studio 2012\Projects\DiningPhilosophers\DiningPhilosophers\bin\Debug\DiningPhilosophers.exe
+c:\users\olya2\documents\visual studio 2012\Projects\DiningPhilosophers\DiningPhilosophers\bin\Debug\DiningPhilosophers.pdb
+c:\users\olya2\documents\visual studio 2012\Projects\DiningPhilosophers\DiningPhilosophers\obj\Debug\DiningPhilosophers.exe
+c:\users\olya2\documents\visual studio 2012\Projects\DiningPhilosophers\DiningPhilosophers\obj\Debug\DiningPhilosophers.pdb
